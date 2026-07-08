@@ -9,5 +9,5 @@ about:
       url: https://www.linkedin.com/in/elisama-freitas-316156360?utm_source=share_via&utm_content=profile&utm_medium=member_ios
     - icon: github
       text: Github
-      url: https://github.com/elisama-of/EstatisticaPPEC/tree/main
+      url: https://github.com/elisama-of
 image: PROFILE.jpeg
