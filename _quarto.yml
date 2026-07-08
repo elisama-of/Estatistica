@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "PPEC0039 - Projeto Final Estatística"
   navbar:
