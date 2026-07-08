@@ -1,0 +1,13 @@
+---
+title: "Elisama Oliveira Freitas"
+description: "Sou doutoranda em engenharia civil com foco em análise de durabilidade de concretos"
+about:
+   template: trestles
+   links:
+    - icon: Linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/elisama-freitas-316156360?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+    - icon: github
+      text: Github
+      url: https://github.com/elisama-of/EstatisticaPPEC/tree/main
+image: PROFILE.jpeg

@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "PPEC0039 - Projeto Final Estatística"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        href: atividade_disciplina.qmd
+        text: PPEC0039
+      - href: about.qmd
+        text: Sobre
+       
+        
+        
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
