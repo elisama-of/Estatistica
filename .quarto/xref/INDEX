@@ -13,5 +13,32 @@
   },
   "about.qmd": {
     "about.html": "b4c3f495"
+  },
+  "Notebooks/Amostragem JORGE.ipynb": {
+    "Amostragem JORGE.html": "5295475d"
+  },
+  "Notebooks/ANOVA Jorge.ipynb": {
+    "ANOVA Jorge.html": "ef0a0db1"
+  },
+  "Notebooks/AULA 1.ipynb": {
+    "AULA 1.html": "2889b750"
+  },
+  "Notebooks/AULA 2.ipynb": {
+    "AULA 2.html": "e1f86544"
+  },
+  "Notebooks/Aula 3.ipynb": {
+    "Aula 3.html": "8bc8d585"
+  },
+  "Notebooks/Distribuicao_de_Probabilidade Bruna.ipynb": {
+    "Distribuicao_de_Probabilidade Bruna.html": "02b44b12"
+  },
+  "Notebooks/Princípio_básico_experimentação Bruna.ipynb": {
+    "Princípio_básico_experimentação Bruna.html": "1c4eb8e3"
+  },
+  "Notebooks/Teste de hipótese Jorge.ipynb": {
+    "Teste de hipótese Jorge.html": "f544d49b"
+  },
+  "Notebooks/Testes_Normalidade_Homocedasticidade Bruna.ipynb": {
+    "Testes_Normalidade_Homocedasticidade Bruna.html": "7ad33a8c"
   }
 }
