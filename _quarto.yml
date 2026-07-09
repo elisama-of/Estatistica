@@ -1,28 +1,19 @@
 project:
   type: website
-  output-dir: docs
-  
 website:
-  title: "PPEC0039 - Projeto Final Estatística"
+  title: "PPEC0039 - Introdução ao Quarto"
   navbar:
     left:
       - href: index.qmd
         text: Home
-        href: atividade_disciplina.qmd
-        text: PPEC0039
       - href: about.qmd
         text: Sobre
-       
-        
-        
+      - href: atividade_disciplina.qmd
+        text: PPEC0039
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-
-
+    toc-depth: 2

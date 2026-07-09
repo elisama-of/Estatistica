@@ -1,0 +1,21 @@
+---
+title: "Sobre"
+---
+
+## Formação
+
+- Doutoranda em Engenharia Civil.
+- Mestra em Ciência, Inovação e Modelagem em Materiais.
+- Engenheira Civil e Engenheira de Segurança do Trabalho.
+
+## Áreas de interesse
+
+- Durabilidade do concreto;
+- Concretos convencionais, CAD e UHPC;
+- Materiais cimentícios;
+- Aderência entre barras de GFRP e concreto;
+- Ensaios experimentais e análise de desempenho.
+
+## Atuação acadêmica
+
+Minha trajetória acadêmica está voltada ao estudo do comportamento mecânico e da durabilidade de materiais cimentícios, com ênfase na avaliação experimental de concretos e no desenvolvimento de critérios de desempenho aplicáveis à engenharia civil.
