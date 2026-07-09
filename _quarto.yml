@@ -1,6 +1,7 @@
 project:
   type: website
-website:
+  output-dir: docs
+website: 
   title: "PPEC0039 - Introdução ao Quarto"
   navbar:
     left:
